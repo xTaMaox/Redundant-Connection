@@ -28,5 +28,6 @@ n == edges.length
 edges[i].length == 2
 1 <= ai < bi <= edges.length
 ai != bi
+
 There are no repeated edges.
 The given graph is connected.
