@@ -20,7 +20,6 @@ Example 2:
 Input: edges = [[1,2],[2,3],[3,4],[1,4],[1,5]]
 Output: [1,4]
  
-
 Constraints:
 
 n == edges.length
