@@ -6,8 +6,6 @@ You are given a graph that started as a tree with n nodes labeled from 1 to n, w
 
 Return an edge that can be removed so that the resulting graph is a tree of n nodes. If there are multiple answers, return the answer that occurs last in the input.
 
- 
-
 Example 1:
 
 ![reduntant1-1-graph](https://user-images.githubusercontent.com/88260025/222917424-837f1abb-2604-4b4d-afb7-d73e37f2cf01.jpg)
